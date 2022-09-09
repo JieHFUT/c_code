@@ -1,2 +1,2 @@
 ﻿  practice.c
-  practice_01.vcxproj -> E:\c_code\c_code\practice_01\x64\Debug\practice_01.exe
+E:\code\c_code\practice_01\practice_01\practice.c(14,16): error C2059: 语法错误:“}”
