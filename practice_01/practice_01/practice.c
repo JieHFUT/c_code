@@ -4,23 +4,5 @@
 int main()
 {
 	printf("hello\n");
-
-
-
-
-
-
-
-	int arr[] = { };
-
-
-
-
-
-
-
-
-
-
 	return 0;
 }
