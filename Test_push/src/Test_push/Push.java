@@ -13,6 +13,7 @@ public class Push {
 
         System.out.println("test push");
         System.out.println("test push");
+        System.out.println("test push");
 
 
     }
